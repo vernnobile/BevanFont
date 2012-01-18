@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="1997"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="1019" y="1008" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1019" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="1410" y="761" type="line"/>
+      <point x="1410" y="1072" type="line"/>
+      <point x="1960" y="1072" type="line"/>
+      <point x="1960" y="761" type="line"/>
+      <point x="1825" y="761" type="line"/>
+      <point x="1599" y="0" type="line"/>
+      <point x="1124" y="0" type="line"/>
+      <point x="994" y="430" type="line"/>
+      <point x="843" y="0" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="161" y="761" type="line"/>
+      <point x="28" y="761" type="line"/>
+      <point x="28" y="1072" type="line"/>
+      <point x="736" y="1072" type="line"/>
+      <point x="736" y="761" type="line"/>
+      <point x="642" y="761" type="line"/>
+      <point x="735" y="392" type="line"/>
+      <point x="945" y="1072" type="line"/>
+      <point x="1211" y="1072" type="line"/>
+      <point x="1429" y="379" type="line"/>
+      <point x="1528" y="761" type="line"/>
+    </contour>
+  </outline>
+</glyph>
