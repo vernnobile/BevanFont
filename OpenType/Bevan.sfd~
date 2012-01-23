@@ -487,9 +487,7 @@ EndChar
 StartChar: period
 Encoding: 36 46 15
 Width: 617
-Flags: W
-HStem: -28 496<141.562 303 305 470.582>
-VStem: 26 565<80.4675 363.322>
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -564,15 +562,13 @@ EndChar
 StartChar: two
 Encoding: 40 50 19
 Width: 1247
-Flags: W
-HStem: 0 317<74 210.074 663 996.069>
-VStem: 34 313<775.844 972.434> 619 510<735.902 977.743> 1039 173<360.326 465>
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-824 317 m 1xe0
+824 317 m 1
  942 321 1039 343 1039 465 c 1
- 1212 465 l 1xd0
+ 1212 465 l 1
  1217 0 l 1
  74 0 l 1
  74 303 l 1
@@ -584,7 +580,7 @@ SplineSet
  93 661 34 785 34 945 c 0
  34 1540 1129 1511 1129 921 c 0
  1129 629 844 451 663 317 c 1
- 824 317 l 1xe0
+ 824 317 l 1
 EndSplineSet
 EndChar
 
@@ -1306,9 +1302,7 @@ EndChar
 StartChar: M
 Encoding: 67 77 46
 Width: 2284
-Flags: W
-HStem: 0 359<40 204 529 691 1445 1568 2094 2248> 1240 353<36 204 2094 2241>
-VStem: 204 325<360 969> 1568 526<359 947>
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1344,9 +1338,7 @@ EndChar
 StartChar: N
 Encoding: 68 78 47
 Width: 1785
-Flags: W
-HStem: 0 359<36 199 515 673> 1240 352<42 199 1115 1273 1594 1752>
-VStem: 199 316<360 878> 1273 321<647 1240>
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2363,7 +2355,7 @@ EndChar
 StartChar: s
 Encoding: 105 115 84
 Width: 1120
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
