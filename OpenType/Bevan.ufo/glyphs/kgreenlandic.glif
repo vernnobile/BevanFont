@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="1407"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="626" y="438" type="line" smooth="no"/>
+      <point x="626" y="0" type="line" smooth="no"/>
+      <point x="36" y="0" type="line" smooth="no"/>
+      <point x="36" y="305" type="line" smooth="no"/>
+      <point x="139" y="305" type="line" smooth="no"/>
+      <point x="139" y="1222" type="line" smooth="no"/>
+      <point x="35" y="1222" type="line" smooth="no"/>
+      <point x="35" y="1495" type="line" smooth="no"/>
+      <point x="626" y="1560" type="line" smooth="no"/>
+      <point x="626" y="587" type="line" smooth="no"/>
+      <point x="827" y="761" type="line" smooth="no"/>
+      <point x="732" y="761" type="line" smooth="no"/>
+      <point x="732" y="1072" type="line" smooth="no"/>
+      <point x="1366" y="1072" type="line" smooth="no"/>
+      <point x="1366" y="761" type="line" smooth="no"/>
+      <point x="1195" y="761" type="line" smooth="no"/>
+      <point x="1195" y="762"/>
+      <point x="1023" y="618"/>
+      <point x="1022" y="618" type="curve" smooth="yes"/>
+      <point x="1229" y="305" type="line" smooth="no"/>
+      <point x="1384" y="305" type="line" smooth="no"/>
+      <point x="1384" y="0" type="line" smooth="no"/>
+      <point x="911" y="0" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>
