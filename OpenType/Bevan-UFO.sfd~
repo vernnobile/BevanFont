@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1327334293
-ModificationTime: 1327433877
+ModificationTime: 1327334293
 PfmFamily: 0
 TTFWeight: 400
 TTFWidth: 5
@@ -54,8 +54,7 @@ OS2Vendor: 'newt'
 OS2CodePages: 20000081.00000000
 OS2UnicodeRanges: 00000007.00000000.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1"  {"'kern' Horizontal Kerning lookup 1 per glyph data 0"  "'kern' Horizontal Kerning lookup 1 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-MarkAttachClasses: 1
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1"  {"'kern' Horizontal Kerning lookup 1 per glyph data 0"  "'kern' Horizontal Kerning lookup 1 kerning class 1"  } ['kern' ('DFLT' <'dflt' > ) ]
 DEI: 91125
 KernClass2: 22 23 "'kern' Horizontal Kerning lookup 1 kerning class 1" 
  89 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0200 uni0202
@@ -590,7 +589,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 54 27 8
+WinInfo: 58 29 8
 BeginPrivate: 6
 BlueValues 47 [-29 0 1072 1091 1345 1375 1560 1570 1592 1623]
 OtherBlues 11 [-398 -389]
@@ -2431,28 +2430,28 @@ EndChar
 
 StartChar: V
 Encoding: 86 86 106
-Width: 1750
+Width: 1690
 VWidth: 0
-Flags: HWO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-905 1240 m 1
- 769 1240 l 1
- 1011 517 l 1
- 1186 1239 l 1
- 1056 1239 l 1
- 1056 1592 l 1
- 1750 1592 l 1
- 1750 1240 l 1
- 1570 1240 l 1
- 1171 0 l 1
- 587 0 l 1
- 186 1240 l 1
- 0 1240 l 5
- 0 1592 l 5
- 905 1592 l 1
- 905 1240 l 1
+865 1240 m 1
+ 749 1240 l 1
+ 951 517 l 1
+ 1126 1239 l 1
+ 996 1239 l 1
+ 996 1592 l 1
+ 1690 1592 l 1
+ 1690 1240 l 1
+ 1510 1240 l 1
+ 1111 0 l 1
+ 527 0 l 1
+ 166 1240 l 1
+ 0 1240 l 1
+ 0 1592 l 1
+ 865 1592 l 1
+ 865 1240 l 1
 EndSplineSet
 Kerns2: 266 -68 "'kern' Horizontal Kerning lookup 1 per glyph data 0"  266 -68 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
