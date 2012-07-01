@@ -3,7 +3,7 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<version format="110221_1144_developer_" superpolator="1" />
+<version format="111003_1758_developer_" superpolator="1" />
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
@@ -11,7 +11,7 @@
 <data name="previewTypeSize" value="Auto" />
 <data name="previewtext" value="nefoan" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="0.392699081699" />
+<data name="projectionAngle" value="2.73964081777" />
 <!-- axis definitions -->
 <axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
 
