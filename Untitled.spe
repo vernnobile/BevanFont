@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="110221_1144_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="Auto" />
+<data name="previewtext" value="nefoan" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="0.392699081699" />
+<!-- axis definitions -->
+<axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Light/Bevan.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="0" />
+</location>
+<!-- color for Light/Bevan.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="Heavy/src/Bevan.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1" />
+</location>
+<!-- color for Heavy/src/Bevan.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+</designspace>
