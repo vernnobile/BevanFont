@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="1">
-  <advance width="2557"/>
+  <advance width="2585"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="30" y="1593" type="line"/>
-      <point x="921" y="1593" type="line"/>
-      <point x="921" y="1240" type="line"/>
-      <point x="770" y="1240" type="line"/>
-      <point x="929" y="672" type="line"/>
-      <point x="1189" y="1593" type="line"/>
-      <point x="1598" y="1593" type="line"/>
-      <point x="1851" y="703" type="line"/>
-      <point x="2006" y="1240" type="line"/>
-      <point x="1866" y="1240" type="line"/>
-      <point x="1866" y="1593" type="line"/>
-      <point x="2527" y="1593" type="line"/>
-      <point x="2527" y="1240" type="line"/>
-      <point x="2358" y="1240" type="line"/>
-      <point x="2017" y="0" type="line"/>
-      <point x="1474" y="0" type="line"/>
-      <point x="1281" y="706" type="line"/>
-      <point x="1079" y="0" type="line"/>
-      <point x="542" y="0" type="line"/>
-      <point x="193" y="1240" type="line"/>
-      <point x="30" y="1240" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="1088" y="0" type="line"/>
+      <point x="1290" y="706" type="line"/>
+      <point x="1483" y="0" type="line"/>
+      <point x="2026" y="0" type="line"/>
+      <point x="2367" y="1240" type="line"/>
+      <point x="2536" y="1240" type="line"/>
+      <point x="2536" y="1593" type="line"/>
+      <point x="1875" y="1593" type="line"/>
+      <point x="1875" y="1240" type="line"/>
+      <point x="2015" y="1240" type="line"/>
+      <point x="1860" y="703" type="line"/>
+      <point x="1607" y="1593" type="line"/>
+      <point x="1198" y="1593" type="line"/>
+      <point x="938" y="672" type="line"/>
+      <point x="779" y="1240" type="line"/>
+      <point x="930" y="1240" type="line"/>
+      <point x="930" y="1593" type="line"/>
+      <point x="39" y="1593" type="line"/>
+      <point x="39" y="1240" type="line"/>
+      <point x="202" y="1240" type="line"/>
     </contour>
     <contour>
-      <point x="1278" y="1593" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="1278" y="0" type="move" name="bot"/>
+      <point x="1279" y="1592" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

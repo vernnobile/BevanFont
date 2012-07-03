@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="1543"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="958.163" y="358" type="curve" smooth="yes"/>
+      <point x="958.163" y="533" type="line" smooth="yes"/>
+      <point x="958.163" y="611.632"/>
+      <point x="912.394" y="732"/>
+      <point x="812.602" y="732" type="curve" smooth="yes"/>
+      <point x="612.796" y="732" type="line"/>
+      <point x="612.796" y="359" type="line"/>
+      <point x="728.507" y="359" type="line"/>
+      <point x="733.038" y="102" type="line"/>
+      <point x="54" y="102" type="line"/>
+      <point x="54" y="359" type="line"/>
+      <point x="201" y="359" type="line"/>
+      <point x="201" y="1342" type="line"/>
+      <point x="54" y="1342" type="line"/>
+      <point x="54" y="1592" type="line"/>
+      <point x="727.617" y="1592" type="line"/>
+      <point x="727.617" y="1342" type="line"/>
+      <point x="612.796" y="1342" type="line"/>
+      <point x="612.796" y="781.264" type="line"/>
+      <point x="964.491" y="1273.27" type="line"/>
+      <point x="964.491" y="1592" type="line"/>
+      <point x="1455" y="1592" type="line"/>
+      <point x="1455" y="1342" type="line"/>
+      <point x="1344.99" y="1342" type="line"/>
+      <point x="1024.16" y="923.347" type="line"/>
+      <point x="1024.16" y="840" type="line"/>
+      <point x="1070.27" y="840" type="line" smooth="yes"/>
+      <point x="1244.27" y="840"/>
+      <point x="1345" y="796.748"/>
+      <point x="1345" y="643" type="curve" smooth="yes"/>
+      <point x="1345" y="502" type="line" smooth="yes"/>
+      <point x="1345" y="449.196"/>
+      <point x="1374.41" y="359"/>
+      <point x="1463" y="359" type="curve" smooth="yes"/>
+      <point x="1502.85" y="359" type="line"/>
+      <point x="1507.14" y="102" type="line"/>
+      <point x="1215.83" y="102" type="line" smooth="yes"/>
+      <point x="1031.77" y="102"/>
+      <point x="958.163" y="180.9"/>
+    </contour>
+  </outline>
+</glyph>
