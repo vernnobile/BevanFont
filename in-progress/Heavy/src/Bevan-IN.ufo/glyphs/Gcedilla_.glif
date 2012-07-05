@@ -4,6 +4,13 @@
   <unicode hex="0122"/>
   <outline>
     <component base="G"/>
-    <component base="cedilla" xOffset="589.500"/>
+    <component base="cedilla" xOffset="589.5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

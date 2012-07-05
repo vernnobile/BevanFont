@@ -79,7 +79,7 @@
 	<key>openTypeOS2SuperscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptXSize</key>
-	<real>1434</real>
+	<real>1434.0</real>
 	<key>openTypeOS2SuperscriptYOffset</key>
 	<integer>977</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
@@ -115,7 +115,7 @@
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.031935501843690872</real>
+	<real>0.03193550184369087</real>
 	<key>postscriptBlueShift</key>
 	<integer>1</integer>
 	<key>postscriptBlueValues</key>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ldotaccent" format="1">
-  <advance width="1239"/>
-  <outline>
-    <component base="L" xOffset="-17"/>
-    <component base="periodcentered" xOffset="953" yOffset="330"/>
-  </outline>
-</glyph>

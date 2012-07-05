@@ -4,18 +4,18 @@
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="64" y="0" type="line"/>
-      <point x="512" y="0" type="line"/>
-      <point x="512" y="92" type="line"/>
-      <point x="352" y="92" type="line"/>
-      <point x="352" y="1399" type="line"/>
-      <point x="512" y="1399" type="line"/>
-      <point x="512" y="1491" type="line"/>
-      <point x="64" y="1491" type="line"/>
-      <point x="64" y="1399" type="line"/>
-      <point x="224" y="1399" type="line"/>
-      <point x="224" y="92" type="line"/>
-      <point x="64" y="92" type="line"/>
+      <point x="595" y="359" type="line"/>
+      <point x="595" y="1342" type="line"/>
+      <point x="742" y="1342" type="line"/>
+      <point x="742" y="1593" type="line"/>
+      <point x="82" y="1593" type="line"/>
+      <point x="82" y="1342" type="line"/>
+      <point x="225" y="1342" type="line"/>
+      <point x="225" y="359" type="line"/>
+      <point x="78" y="359" type="line"/>
+      <point x="78" y="102" type="line"/>
+      <point x="736" y="102" type="line"/>
+      <point x="736" y="359" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,31 +46,6 @@
             <integer>658</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>I</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>816</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

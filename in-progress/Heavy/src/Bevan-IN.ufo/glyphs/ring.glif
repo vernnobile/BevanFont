@@ -32,10 +32,10 @@
       <point x="157" y="1239"/>
     </contour>
     <contour>
-      <point x="333" y="1072" type="line" smooth="yes"/>
+      <point x="333" y="1072" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="333" y="1072" type="move" name="_top"/>
+      <point x="333" y="1072" type="move"/>
     </contour>
   </outline>
 </glyph>

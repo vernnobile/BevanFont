@@ -4,6 +4,13 @@
   <unicode hex="0215"/>
   <outline>
     <component base="u"/>
-    <component base="dblgravecmb" xOffset="335.500"/>
+    <component base="dblgravecmb" xOffset="335.5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
