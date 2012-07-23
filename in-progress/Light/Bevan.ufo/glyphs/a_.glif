@@ -5,55 +5,34 @@
   <outline>
     <contour>
       <point x="933" y="303" type="line"/>
-      <point x="872" y="574" type="line"/>
-      <point x="506" y="574" type="line"/>
-      <point x="467" y="303" type="line"/>
-      <point x="604" y="303" type="line"/>
-      <point x="604" y="51" type="line"/>
-      <point x="60" y="51" type="line"/>
-      <point x="60" y="303" type="line"/>
-      <point x="205" y="303" type="line"/>
-      <point x="458" y="1291" type="line"/>
-      <point x="247" y="1291" type="line"/>
-      <point x="247" y="1542" type="line"/>
-      <point x="1067" y="1542" type="line"/>
-      <point x="1371" y="303" type="line"/>
-      <point x="1486" y="303" type="line"/>
-      <point x="1486" y="51" type="line"/>
-      <point x="808" y="51" type="line"/>
       <point x="808" y="303" type="line"/>
+      <point x="808" y="51" type="line"/>
+      <point x="1486" y="51" type="line"/>
+      <point x="1486" y="303" type="line"/>
+      <point x="1371" y="303" type="line"/>
+      <point x="1067" y="1542" type="line"/>
+      <point x="247" y="1542" type="line"/>
+      <point x="247" y="1291" type="line"/>
+      <point x="458" y="1291" type="line"/>
+      <point x="205" y="303" type="line"/>
+      <point x="60" y="303" type="line"/>
+      <point x="60" y="51" type="line"/>
+      <point x="604" y="51" type="line"/>
+      <point x="604" y="303" type="line"/>
+      <point x="467" y="303" type="line"/>
+      <point x="506" y="574" type="line"/>
+      <point x="872" y="574" type="line"/>
     </contour>
     <contour>
       <point x="851" y="712" type="line"/>
-      <point x="686" y="1474" type="line"/>
       <point x="529" y="712" type="line"/>
+      <point x="686" y="1474" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>51</integer>
-            <key>width</key>
-            <integer>252</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>574</integer>
-            <key>width</key>
-            <integer>138</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1291</integer>
-            <key>width</key>
-            <integer>251</integer>
-          </dict>
-        </array>
       </dict>
     </dict>
   </lib>

@@ -4,23 +4,31 @@
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="82.8906" y="-244.8" type="curve" smooth="yes"/>
-      <point x="122.449" y="-180.753"/>
-      <point x="162.935" y="-120.597"/>
-      <point x="207.854" y="-51" type="curve"/>
-      <point x="271.243" y="-51" type="line"/>
-      <point x="237.834" y="-110.443"/>
-      <point x="166" y="-189.857"/>
-      <point x="166" y="-273" type="curve" smooth="yes"/>
-      <point x="166" y="-384.726"/>
-      <point x="276.45" y="-415.27"/>
-      <point x="353" y="-423.107" type="curve"/>
-      <point x="353" y="-436.276" type="line"/>
-      <point x="198.105" y="-428.848"/>
-      <point x="66" y="-368.638"/>
-      <point x="66" y="-288" type="curve" smooth="yes"/>
-      <point x="66" y="-269.006"/>
-      <point x="67.7471" y="-269.317"/>
+      <point x="82.8905944824" y="-244.800003052" type="line"/>
+      <point x="67.7471008301" y="-269.317001343"/>
+      <point x="66.0" y="-269.006027222"/>
+      <point x="66.0" y="-288.000015259" type="curve" smooth="yes"/>
+      <point x="66.0" y="-368.638015747"/>
+      <point x="198.104995728" y="-428.848007202"/>
+      <point x="353.0" y="-436.276016235" type="curve"/>
+      <point x="353.0" y="-423.107009888" type="line"/>
+      <point x="276.450012207" y="-415.270004272"/>
+      <point x="166.0" y="-384.726028442"/>
+      <point x="166.0" y="-273.000015259" type="curve" smooth="yes"/>
+      <point x="166.0" y="-189.857009888"/>
+      <point x="237.833999634" y="-110.443008423"/>
+      <point x="271.243011475" y="-51.0000152588" type="curve"/>
+      <point x="207.854003906" y="-51.0000152588" type="line"/>
+      <point x="162.934997559" y="-120.597015381"/>
+      <point x="122.449005127" y="-180.75302124"/>
+      <point x="82.8905944824" y="-244.800018311" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

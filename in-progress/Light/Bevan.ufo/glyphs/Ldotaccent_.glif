@@ -2,7 +2,44 @@
 <glyph name="Ldotaccent" format="1">
   <advance width="1239"/>
   <outline>
-    <component base="L" xOffset="-17"/>
-    <component base="periodcentered" xOffset="953" yOffset="330"/>
+    <contour>
+      <point x="1230.0" y="1288.0" type="curve" smooth="yes"/>
+      <point x="1092.54394531" y="1288"/>
+      <point x="1003.0" y="1214.92480469"/>
+      <point x="1003.0" y="1094.0" type="curve" smooth="yes"/>
+      <point x="1003.0" y="974.618164062"/>
+      <point x="1089.07421875" y="899.126953125"/>
+      <point x="1217.37890625" y="894.208984375" type="curve"/>
+      <point x="1218.9609375" y="895.0" type="line"/>
+      <point x="1231.0" y="895.0" type="line" smooth="yes"/>
+      <point x="1370.25878906" y="895.0"/>
+      <point x="1466.0" y="971.34765625"/>
+      <point x="1466.0" y="1094.0" type="curve" smooth="yes"/>
+      <point x="1466.0" y="1215.70507812"/>
+      <point x="1373.11816406" y="1288.0"/>
+    </contour>
+    <contour>
+      <point x="939.0" y="709.0" type="line"/>
+      <point x="1134.0" y="709.0" type="line"/>
+      <point x="1134.0" y="102.0" type="line"/>
+      <point x="65.0" y="102.0" type="line"/>
+      <point x="65.0" y="359.0" type="line"/>
+      <point x="207.0" y="359.0" type="line"/>
+      <point x="207.0" y="1342.0" type="line"/>
+      <point x="60.0" y="1342.0" type="line"/>
+      <point x="60.0" y="1592.0" type="line"/>
+      <point x="748.0" y="1592.0" type="line"/>
+      <point x="748.0" y="1342.0" type="line"/>
+      <point x="617.0" y="1342.0" type="line"/>
+      <point x="617.0" y="359.0" type="line"/>
+      <point x="857.0" y="359.0" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

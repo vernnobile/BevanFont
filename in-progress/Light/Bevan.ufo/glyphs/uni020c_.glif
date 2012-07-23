@@ -3,7 +3,58 @@
   <advance width="1598"/>
   <unicode hex="020C"/>
   <outline>
-    <component base="O" xOffset="-14"/>
-    <component base="uni030F" xOffset="343" yOffset="521"/>
+    <contour>
+      <point x="560" y="2381" type="line"/>
+      <point x="759" y="1789" type="line"/>
+      <point x="713" y="1762" type="line"/>
+      <point x="393" y="2217" type="line"/>
+    </contour>
+    <contour>
+      <point x="934" y="2413" type="line"/>
+      <point x="1062" y="1793" type="line"/>
+      <point x="983" y="1764" type="line"/>
+      <point x="768" y="2337" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="798" type="curve" smooth="yes"/>
+      <point x="50" y="555"/>
+      <point x="144" y="370"/>
+      <point x="265" y="242" type="curve" smooth="yes"/>
+      <point x="382" y="118"/>
+      <point x="548" y="22"/>
+      <point x="768" y="22" type="curve" smooth="yes"/>
+      <point x="988" y="22"/>
+      <point x="1154" y="118"/>
+      <point x="1271" y="242" type="curve" smooth="yes"/>
+      <point x="1392" y="370"/>
+      <point x="1486" y="555"/>
+      <point x="1486" y="798" type="curve" smooth="yes"/>
+      <point x="1486" y="1282"/>
+      <point x="1206" y="1572"/>
+      <point x="768" y="1572" type="curve" smooth="yes"/>
+      <point x="332" y="1572"/>
+      <point x="50" y="1283"/>
+    </contour>
+    <contour>
+      <point x="768" y="1311" type="curve" smooth="yes"/>
+      <point x="988" y="1311"/>
+      <point x="1013" y="983"/>
+      <point x="1013" y="806" type="curve" smooth="yes"/>
+      <point x="1013" y="632"/>
+      <point x="990" y="267"/>
+      <point x="768" y="267" type="curve" smooth="yes"/>
+      <point x="546" y="267"/>
+      <point x="523" y="630"/>
+      <point x="523" y="806" type="curve" smooth="yes"/>
+      <point x="523" y="982"/>
+      <point x="547" y="1311"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

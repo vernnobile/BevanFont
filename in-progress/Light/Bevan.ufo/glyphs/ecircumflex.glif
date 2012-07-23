@@ -3,35 +3,59 @@
   <advance width="1094"/>
   <unicode hex="00EA"/>
   <outline>
-    <component base="circumflex" xOffset="130" yOffset="-63"/>
-    <component base="e"/>
+    <contour>
+      <point x="835" y="584" type="line"/>
+      <point x="835" y="605" type="line" smooth="yes"/>
+      <point x="835" y="756"/>
+      <point x="700" y="893"/>
+      <point x="524" y="893" type="curve" smooth="yes"/>
+      <point x="343" y="893"/>
+      <point x="224" y="761"/>
+      <point x="201" y="618" type="curve"/>
+      <point x="201" y="616"/>
+      <point x="199" y="586"/>
+      <point x="199" y="584" type="curve"/>
+    </contour>
+    <contour>
+      <point x="68.0" y="485.0" type="curve" smooth="yes"/>
+      <point x="68" y="766"/>
+      <point x="228" y="989"/>
+      <point x="524" y="989" type="curve" smooth="yes"/>
+      <point x="748" y="989"/>
+      <point x="948" y="841"/>
+      <point x="948" y="562" type="curve" smooth="yes"/>
+      <point x="948" y="561"/>
+      <point x="946" y="518"/>
+      <point x="944" y="496" type="curve"/>
+      <point x="196" y="496" type="line"/>
+      <point x="196" y="260"/>
+      <point x="316" y="77"/>
+      <point x="586" y="77" type="curve" smooth="yes"/>
+      <point x="750.018554688" y="77"/>
+      <point x="845.190429688" y="132.190429688"/>
+      <point x="911.0" y="179.0" type="curve"/>
+      <point x="921.0" y="177.0" type="line"/>
+      <point x="921.0" y="79.0" type="line"/>
+      <point x="882.109375" y="50.8974609375"/>
+      <point x="761.448242188" y="-18.0"/>
+      <point x="565.0" y="-18.0" type="curve" smooth="yes"/>
+      <point x="256.0" y="-18.0"/>
+      <point x="68.0" y="211.0"/>
+    </contour>
+    <contour>
+      <point x="684.0" y="1235.0" type="line"/>
+      <point x="474.0" y="1486.0" type="line"/>
+      <point x="264.0" y="1235.0" type="line"/>
+      <point x="189.0" y="1284.0" type="line"/>
+      <point x="415.0" y="1596.0" type="line"/>
+      <point x="532.0" y="1596.0" type="line"/>
+      <point x="760.0" y="1284.0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ecircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1094</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

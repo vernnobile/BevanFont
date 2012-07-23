@@ -3,35 +3,81 @@
   <advance width="1141"/>
   <unicode hex="0105"/>
   <outline>
-    <component base="a"/>
-    <component base="ogonek" xOffset="699"/>
+    <contour>
+      <point x="781.890625" y="-244.799804688" type="curve" smooth="yes"/>
+      <point x="766.747070312" y="-269.317382812"/>
+      <point x="765.0" y="-269.005859375"/>
+      <point x="765.0" y="-288.0" type="curve" smooth="yes"/>
+      <point x="765.0" y="-368.637695312"/>
+      <point x="897.10546875" y="-428.84765625"/>
+      <point x="1052.0" y="-436.276367188" type="curve"/>
+      <point x="1052.0" y="-423.107421875" type="line"/>
+      <point x="975.450195312" y="-415.26953125"/>
+      <point x="865.0" y="-384.725585938"/>
+      <point x="865.0" y="-273.0" type="curve" smooth="yes"/>
+      <point x="865.0" y="-189.857421875"/>
+      <point x="936.833984375" y="-110.443359375"/>
+      <point x="970.243164062" y="-51.0" type="curve"/>
+      <point x="906.853515625" y="-51.0" type="line"/>
+      <point x="861.934570312" y="-120.596679688"/>
+      <point x="821.44921875" y="-180.752929688"/>
+    </contour>
+    <contour>
+      <point x="407.0" y="75.0" type="curve" smooth="yes"/>
+      <point x="524.0" y="75.0"/>
+      <point x="626.0" y="114.0"/>
+      <point x="702.0" y="188.0" type="curve"/>
+      <point x="702.0" y="417.0" type="line"/>
+      <point x="613.538085938" y="442.548828125"/>
+      <point x="521.008789062" y="453.0"/>
+      <point x="460.0" y="453.0" type="curve" smooth="yes"/>
+      <point x="234.405273438" y="453.0"/>
+      <point x="195.0" y="358.552734375"/>
+      <point x="195.0" y="260.0" type="curve" smooth="yes"/>
+      <point x="195.0" y="179.0"/>
+      <point x="248.0" y="75.0"/>
+    </contour>
+    <contour>
+      <point x="737.0" y="0.0" type="line"/>
+      <point x="738.166992188" y="0.0"/>
+      <point x="709.0" y="125.0"/>
+      <point x="709.0" y="125.0" type="curve"/>
+      <point x="691.0" y="81.0"/>
+      <point x="565.0" y="-18.0"/>
+      <point x="389.0" y="-18.0" type="curve" smooth="yes"/>
+      <point x="188.0" y="-18.0"/>
+      <point x="71.0" y="99.0"/>
+      <point x="71.0" y="261.0" type="curve" smooth="yes"/>
+      <point x="71.0" y="440.295898438"/>
+      <point x="234.58203125" y="533.0"/>
+      <point x="417.0" y="533.0" type="curve" smooth="yes"/>
+      <point x="500.8828125" y="533.0"/>
+      <point x="626.202148438" y="518.700195312"/>
+      <point x="702.0" y="478.0" type="curve"/>
+      <point x="702.0" y="586.0" type="line" smooth="yes"/>
+      <point x="702.0" y="790.51171875"/>
+      <point x="671.873046875" y="898.0"/>
+      <point x="464.0" y="898.0" type="curve" smooth="yes"/>
+      <point x="278.139648438" y="898.0"/>
+      <point x="181.869140625" y="844.862304688"/>
+      <point x="152.0" y="829.241210938" type="curve"/>
+      <point x="144.0" y="832.799804688" type="line"/>
+      <point x="144.0" y="926.0" type="line"/>
+      <point x="214.0" y="959.8125"/>
+      <point x="338.0" y="989.0"/>
+      <point x="466.0" y="989.0" type="curve" smooth="yes"/>
+      <point x="679.0" y="989.0"/>
+      <point x="846.0" y="901.0"/>
+      <point x="846.0" y="584.0" type="curve" smooth="yes"/>
+      <point x="846.0" y="93.0" type="line"/>
+      <point x="1007.0" y="93.0" type="line"/>
+      <point x="1007.0" y="0.0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>aogonek</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1141</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

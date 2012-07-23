@@ -4,34 +4,16 @@
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="564.017" y="1539.88" type="line"/>
-      <point x="445.334" y="1710.81" type="line"/>
-      <point x="48" y="1344.49" type="line"/>
-      <point x="98.0586" y="1276.62" type="line"/>
+      <point x="564.017028809" y="1539.88000488" type="line"/>
+      <point x="98.05859375" y="1276.61999512" type="line"/>
+      <point x="48.0" y="1344.48999023" type="line"/>
+      <point x="445.334014893" y="1710.81005859" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>1277</integer>
-            <key>width</key>
-            <integer>434</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>48</integer>
-            <key>width</key>
-            <integer>516</integer>
-          </dict>
-        </array>
       </dict>
     </dict>
   </lib>

@@ -3,35 +3,56 @@
   <advance width="1094"/>
   <unicode hex="00E8"/>
   <outline>
-    <component base="e"/>
-    <component base="grave" xOffset="171" yOffset="-63"/>
+    <contour>
+      <point x="337.682617188" y="1647.81054688" type="line"/>
+      <point x="735.016601562" y="1281.49023438" type="line"/>
+      <point x="684.958007812" y="1213.62011719" type="line"/>
+      <point x="219.0" y="1476.87988281" type="line"/>
+    </contour>
+    <contour>
+      <point x="835.0" y="584.0" type="line"/>
+      <point x="835.0" y="605.0" type="line" smooth="yes"/>
+      <point x="835.0" y="756.0"/>
+      <point x="700.0" y="893.0"/>
+      <point x="524.0" y="893.0" type="curve" smooth="yes"/>
+      <point x="343.0" y="893.0"/>
+      <point x="224.0" y="761.0"/>
+      <point x="201.0" y="618.0" type="curve"/>
+      <point x="201.0" y="616.0"/>
+      <point x="199.0" y="586.0"/>
+      <point x="199.0" y="584.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="68.0" y="485.0" type="curve" smooth="yes"/>
+      <point x="68.0" y="766.0"/>
+      <point x="228.0" y="989.0"/>
+      <point x="524.0" y="989.0" type="curve" smooth="yes"/>
+      <point x="748.0" y="989.0"/>
+      <point x="948.0" y="841.0"/>
+      <point x="948.0" y="562.0" type="curve" smooth="yes"/>
+      <point x="948.0" y="561.0"/>
+      <point x="946.0" y="518.0"/>
+      <point x="944.0" y="496.0" type="curve"/>
+      <point x="196.0" y="496.0" type="line"/>
+      <point x="196.0" y="260.0"/>
+      <point x="316.0" y="77.0"/>
+      <point x="586.0" y="77.0" type="curve" smooth="yes"/>
+      <point x="750.018554688" y="77.0"/>
+      <point x="845.190429688" y="132.190429688"/>
+      <point x="911.0" y="179.0" type="curve"/>
+      <point x="921.0" y="177.0" type="line"/>
+      <point x="921.0" y="79.0" type="line"/>
+      <point x="882.109375" y="50.8974609375"/>
+      <point x="761.448242188" y="-18.0"/>
+      <point x="565.0" y="-18.0" type="curve" smooth="yes"/>
+      <point x="256.0" y="-18.0"/>
+      <point x="68.0" y="211.0"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>egrave</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1094</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

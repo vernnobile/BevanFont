@@ -3,35 +3,52 @@
   <advance width="962"/>
   <unicode hex="0109"/>
   <outline>
-    <component base="c"/>
-    <component base="circumflex" xOffset="-33" yOffset="-63"/>
+    <contour>
+      <point x="521" y="1235" type="line"/>
+      <point x="311" y="1486" type="line"/>
+      <point x="101" y="1235" type="line"/>
+      <point x="26" y="1284" type="line"/>
+      <point x="252" y="1596" type="line"/>
+      <point x="369" y="1596" type="line"/>
+      <point x="597" y="1284" type="line"/>
+    </contour>
+    <contour>
+      <point x="573.0" y="77.0" type="curve" smooth="yes"/>
+      <point x="360.40625" y="77"/>
+      <point x="215.0" y="212.30078125"/>
+      <point x="215.0" y="493.0" type="curve" smooth="yes"/>
+      <point x="215.0" y="757.0"/>
+      <point x="379.0" y="890.0"/>
+      <point x="568.0" y="890.0" type="curve" smooth="yes"/>
+      <point x="735.0" y="890.0"/>
+      <point x="828.0" y="755.0"/>
+      <point x="828.0" y="663.0" type="curve"/>
+      <point x="933.0" y="663.0" type="line"/>
+      <point x="933.0" y="961.0" type="line"/>
+      <point x="874.0" y="961.0" type="line"/>
+      <point x="850.0" y="816.0" type="line"/>
+      <point x="781.0" y="952.0"/>
+      <point x="625.0" y="989.0"/>
+      <point x="541.0" y="989.0" type="curve" smooth="yes"/>
+      <point x="299.0" y="989.0"/>
+      <point x="69.0" y="795.0"/>
+      <point x="69.0" y="495.0" type="curve" smooth="yes"/>
+      <point x="69.0" y="162.0"/>
+      <point x="288.0" y="-18.0"/>
+      <point x="559.0" y="-18.0" type="curve" smooth="yes"/>
+      <point x="755.448242188" y="-18.0"/>
+      <point x="876.109375" y="50.8974609375"/>
+      <point x="915.0" y="79.0" type="curve"/>
+      <point x="915.0" y="177.0" type="line"/>
+      <point x="905.0" y="179.0" type="line"/>
+      <point x="837.772460938" y="132.190429688"/>
+      <point x="740.551757812" y="77.0"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ccircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>962</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -4,28 +4,35 @@
   <unicode hex="00A1"/>
   <outline>
     <contour>
-      <point x="129.865" y="1022.78" type="line"/>
-      <point x="459.218" y="1021.22" type="line"/>
-      <point x="538" y="296.237" type="line"/>
-      <point x="538" y="51" type="line"/>
-      <point x="53" y="51" type="line"/>
-      <point x="53" y="296.31" type="line"/>
+      <point x="129.865005493" y="1022.7800293" type="line"/>
+      <point x="53.0" y="296.309997559" type="line"/>
+      <point x="53.0" y="51.0" type="line"/>
+      <point x="538.0" y="51.0" type="line"/>
+      <point x="538.0" y="296.236999512" type="line"/>
+      <point x="459.217987061" y="1021.2199707" type="line"/>
     </contour>
     <contour>
-      <point x="293" y="1602" type="curve" smooth="yes"/>
-      <point x="436.118" y="1602"/>
-      <point x="529" y="1529.71"/>
-      <point x="529" y="1408" type="curve" smooth="yes"/>
-      <point x="529" y="1285.35"/>
-      <point x="433.259" y="1209"/>
-      <point x="294" y="1209" type="curve" smooth="yes"/>
-      <point x="281.961" y="1209" type="line"/>
-      <point x="280.379" y="1208.21" type="line"/>
-      <point x="152.074" y="1213.13"/>
-      <point x="66" y="1288.62"/>
-      <point x="66" y="1408" type="curve" smooth="yes"/>
-      <point x="66" y="1528.92"/>
-      <point x="155.544" y="1602"/>
+      <point x="293.0" y="1602.0" type="curve" smooth="yes"/>
+      <point x="155.544006348" y="1602.0"/>
+      <point x="66.0" y="1528.92004395"/>
+      <point x="66.0" y="1408.0" type="curve" smooth="yes"/>
+      <point x="66.0" y="1288.61999512"/>
+      <point x="152.074005127" y="1213.13000488"/>
+      <point x="280.378997803" y="1208.20996094" type="curve"/>
+      <point x="281.960998535" y="1209.0" type="line"/>
+      <point x="294.0" y="1209.0" type="line" smooth="yes"/>
+      <point x="433.259002686" y="1209.0"/>
+      <point x="529.0" y="1285.34997559"/>
+      <point x="529.0" y="1408.0" type="curve" smooth="yes"/>
+      <point x="529.0" y="1529.70996094"/>
+      <point x="436.118011475" y="1602.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

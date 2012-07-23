@@ -3,7 +3,49 @@
   <advance width="1588"/>
   <unicode hex="0200"/>
   <outline>
-    <component base="A"/>
-    <component base="uni030F" xOffset="340" yOffset="521"/>
+    <contour>
+      <point x="557" y="2381" type="line"/>
+      <point x="756" y="1789" type="line"/>
+      <point x="710" y="1762" type="line"/>
+      <point x="390" y="2217" type="line"/>
+    </contour>
+    <contour>
+      <point x="931" y="2413" type="line"/>
+      <point x="1059" y="1793" type="line"/>
+      <point x="980" y="1764" type="line"/>
+      <point x="765" y="2337" type="line"/>
+    </contour>
+    <contour>
+      <point x="933" y="303" type="line"/>
+      <point x="808" y="303" type="line"/>
+      <point x="808" y="51" type="line"/>
+      <point x="1486" y="51" type="line"/>
+      <point x="1486" y="303" type="line"/>
+      <point x="1371" y="303" type="line"/>
+      <point x="1067" y="1542" type="line"/>
+      <point x="247" y="1542" type="line"/>
+      <point x="247" y="1291" type="line"/>
+      <point x="458" y="1291" type="line"/>
+      <point x="205" y="303" type="line"/>
+      <point x="60" y="303" type="line"/>
+      <point x="60" y="51" type="line"/>
+      <point x="604" y="51" type="line"/>
+      <point x="604" y="303" type="line"/>
+      <point x="467" y="303" type="line"/>
+      <point x="506" y="574" type="line"/>
+      <point x="872" y="574" type="line"/>
+    </contour>
+    <contour>
+      <point x="851" y="712" type="line"/>
+      <point x="529" y="712" type="line"/>
+      <point x="686" y="1474" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
