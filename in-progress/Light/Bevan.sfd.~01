@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1341529116
-ModificationTime: 1361215256
+ModificationTime: 1341530580
 PfmFamily: 0
 TTFWeight: 400
 TTFWidth: 5
@@ -52,8 +52,6 @@ OS2StrikeYPos: 512
 OS2Vendor: 'newt'
 OS2CodePages: 20000093.00000000
 OS2UnicodeRanges: a00000af.5000204b.00000000.00000000
-Lookup: 260 0 0 "'mark' Mark Positioning lookup 0"  {"'mark' Mark Positioning lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "vernonadams: Bevan: 2011" "" "Version 1.001" "" "Bevan is a trademark of vernon adams." "vernon adams" "vernon adams" "Copyright (c) 2011 by . All rights reserved." "" "http://www.newtypography.co.uk" "" "" "" "" "" "Bevan" 
 PickledData: "(dp1
@@ -722,9 +720,6 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 0 25 14
-BeginPrivate: 0
-EndPrivate
-AnchorClass2: "bottom"  "'mark' Mark Positioning lookup 0-1" "top"  "'mark' Mark Positioning lookup 0-1" 
 BeginChars: 65540 309
 
 StartChar: A
@@ -3133,16 +3128,7 @@ p26
 (tsss."
 HStem: 51 199 84 140 489 90 759 223 854 186
 VStem: 59 349 670 349
-AnchorPoint: "bottom" 814 0 basechar 0
-AnchorPoint: "top" 466 1040 basechar 0
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 407 75 m 0x26
@@ -3173,7 +3159,7 @@ EndChar
 
 StartChar: aacute
 Encoding: 225 225 89
-Width: 1059
+Width: 1141
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -3202,16 +3188,9 @@ p12
 p13
 (tsss."
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 92 180 N 1 0 0 1 236.492 -144.919 2
-Refer: 88 97 N 1 0 0 1 0 0 3
+Refer: 92 180 N 1 0 0 1 210 -63 2
+Refer: 88 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: abreve
@@ -3316,15 +3295,7 @@ stp11
 ss."
 HStem: 1277 434
 VStem: 48 516
-AnchorPoint: "top" 229.508 1184.92 mark 0
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 564.017 1539.88 m 1
@@ -4602,7 +4573,7 @@ StartChar: d
 Encoding: 100 100 129
 Width: 1206
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Back
 SplineSet
