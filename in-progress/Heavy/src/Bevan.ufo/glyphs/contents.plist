@@ -364,6 +364,16 @@
 	<string>kgreenlandic.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
+	<key>lc_tall_stem</key>
+	<string>lc_tall_stem.glif</string>
+	<key>lc_tall_stem_2</key>
+	<string>lc_tall_stem_2.glif</string>
+	<key>lc_xheight_curved_stem</key>
+	<string>lc_xheight_curved_stem.glif</string>
+	<key>lc_xheight_curved_stem_2</key>
+	<string>lc_xheight_curved_stem_2.glif</string>
+	<key>lc_xheight_stem</key>
+	<string>lc_xheight_stem.glif</string>
 	<key>ldot</key>
 	<string>ldot.glif</string>
 	<key>less</key>
