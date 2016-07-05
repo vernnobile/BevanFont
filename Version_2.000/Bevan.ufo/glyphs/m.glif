@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="2264"/>
+  <unicode hex="006D"/>
+  <outline>
+    <component base="lc_xheight_stem" xOffset="1"/>
+    <component base="lc_xheight_curved_stem" xOffset="686"/>
+    <component base="lc_xheight_curved_stem" xOffset="686"/>
+    <component base="lc_xheight_curved_stem_2" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

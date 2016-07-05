@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="2585"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="551" y="0" type="line"/>
+      <point x="1088" y="0" type="line"/>
+      <point x="1290" y="706" type="line"/>
+      <point x="1483" y="0" type="line"/>
+      <point x="2026" y="0" type="line"/>
+      <point x="2367" y="1240" type="line"/>
+      <point x="2536" y="1240" type="line"/>
+      <point x="2536" y="1593" type="line"/>
+      <point x="1875" y="1593" type="line"/>
+      <point x="1875" y="1240" type="line"/>
+      <point x="2015" y="1240" type="line"/>
+      <point x="1860" y="703" type="line"/>
+      <point x="1607" y="1593" type="line"/>
+      <point x="1198" y="1593" type="line"/>
+      <point x="938" y="672" type="line"/>
+      <point x="779" y="1240" type="line"/>
+      <point x="930" y="1240" type="line"/>
+      <point x="930" y="1593" type="line"/>
+      <point x="39" y="1593" type="line"/>
+      <point x="39" y="1240" type="line"/>
+      <point x="202" y="1240" type="line"/>
+    </contour>
+    <contour>
+      <point x="1279" y="1592" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 03:19:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>
