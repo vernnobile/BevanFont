@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="1">
+  <advance width="893"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="19" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="874" y="1623" type="line"/>
+      <point x="510" y="1623" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 03:19:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

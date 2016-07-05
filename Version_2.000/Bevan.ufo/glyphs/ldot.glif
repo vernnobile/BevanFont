@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="1">
+  <advance width="1445"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="796" y="0" type="line"/>
+      <point x="796" y="304" type="line"/>
+      <point x="698" y="304" type="line"/>
+      <point x="698" y="1560" type="line"/>
+      <point x="78" y="1495" type="line"/>
+      <point x="78" y="1222" type="line"/>
+      <point x="203" y="1222" type="line"/>
+      <point x="203" y="304" type="line"/>
+      <point x="88" y="304" type="line"/>
+    </contour>
+    <contour>
+      <point x="1099" y="514" type="curve" smooth="yes"/>
+      <point x="1259" y="514"/>
+      <point x="1385" y="608"/>
+      <point x="1385" y="764" type="curve" smooth="yes"/>
+      <point x="1385" y="914"/>
+      <point x="1266" y="1009"/>
+      <point x="1098" y="1009" type="curve" smooth="yes"/>
+      <point x="937" y="1009"/>
+      <point x="820" y="915"/>
+      <point x="820" y="764" type="curve" smooth="yes"/>
+      <point x="820" y="609"/>
+      <point x="944" y="514"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 03:19:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

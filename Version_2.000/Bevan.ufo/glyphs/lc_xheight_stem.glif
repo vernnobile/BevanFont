@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lc_xheight_stem" format="1">
+  <advance width="1560"/>
+  <outline>
+    <contour>
+      <point x="105" y="0" type="line"/>
+      <point x="729" y="0" type="line"/>
+      <point x="729" y="288" type="line"/>
+      <point x="728" y="288" type="line"/>
+      <point x="728" y="1091" type="line"/>
+      <point x="105" y="1032" type="line"/>
+      <point x="105" y="761" type="line"/>
+      <point x="249" y="761" type="line"/>
+      <point x="249" y="288" type="line"/>
+      <point x="105" y="288" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 03:19:44 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
