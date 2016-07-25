@@ -772,7 +772,7 @@ glyphname = CR;
 layers = (
 {
 layerId = "BC722C43-F174-4026-9892-4620CE50CA16";
-width = 420;
+width = 421;
 }
 );
 widthMetricsKey = "=space";
@@ -783,7 +783,7 @@ glyphname = space;
 layers = (
 {
 layerId = "BC722C43-F174-4026-9892-4620CE50CA16";
-width = 420;
+width = 421;
 }
 );
 unicode = 0020;
@@ -793,7 +793,7 @@ glyphname = nbspace;
 layers = (
 {
 layerId = "BC722C43-F174-4026-9892-4620CE50CA16";
-width = 420;
+width = 421;
 }
 );
 widthMetricsKey = "=space";
