@@ -1,4 +1,4 @@
-Copyright (c) 2016, Vernon Adams, with Reserved Font Name Bevan.
+Copyright (c) 2016 The Bevan Project Authors (www.sansoxygen.com) with Reserved Font Name 'Bevan'
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
